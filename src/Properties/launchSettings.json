@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleZipper": {
+      "commandName": "Project",
+      "commandLineArgs": "--s C:\\Users\\hpmar\\Downloads\\testFolder --n final.zip --e .bmp .css .jpg --d subfolder1 --f file3 --o local --p C:\\Users\\hpmar\\Downloads"
+    }
+  }
+}
